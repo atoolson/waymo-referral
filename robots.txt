@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://waymoreferralcode.com/sitemap.xml
+Sitemap: https://waymopromocode.com/sitemap.xml
